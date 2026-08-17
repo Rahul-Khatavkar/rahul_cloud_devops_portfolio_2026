@@ -3,7 +3,7 @@ const portfolioContent = {
   name: 'Rahul Khatavkar N B', shortName: 'RAHUL KHATAVKAR N B', availability: 'OPEN TO CLOUD & DEVOPS ROLES',
   intro: 'Cloud & DevOps engineer focused on building reliable, scalable, and automated infrastructure across AWS and Azure.',
   about: 'I enjoy turning manual cloud operations into repeatable systems. My work combines Infrastructure as Code, containerization, CI/CD automation, and observability to build platforms teams can operate with confidence.',
-  email: 'rahulnbkhatavkar@gmail.com', location: 'BASED IN BENGALURU, INDIA',
+  email: 'rahulnbkhatavkar@gmail.com', location: 'BENGALURU, INDIA',
   technologies: ['AWS', 'MICROSOFT AZURE', 'TERRAFORM', 'DOCKER', 'KUBERNETES', 'JENKINS', 'PROMETHEUS', 'GRAFANA'],
   metrics: [{value: '03', label: 'DevOps implementation projects'}, {value: '02', label: 'Cloud platforms'}, {value: '08+', label: 'Core automation tools'}],
   projects: [
